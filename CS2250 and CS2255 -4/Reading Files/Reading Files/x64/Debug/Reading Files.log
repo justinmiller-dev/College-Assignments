@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\justin\source\repos\Reading Files\Reading Files\Source.cpp(8,21): warning C4101: 'avrgOfnum': unreferenced local variable
+C:\Users\justin\source\repos\Reading Files\Reading Files\Source.cpp(7,6): warning C4101: 'numOfnum': unreferenced local variable
+  Reading Files.vcxproj -> C:\Users\justin\source\repos\Reading Files\x64\Debug\Reading Files.exe
